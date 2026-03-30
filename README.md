@@ -1,5 +1,7 @@
 # 🤖 AI Summarizer Agent (Gemini + FastAPI + Cloud Run)
 
+Live Demo: https://ai-agent-721769240731.asia-south1.run.app
+
 ## 📌 Overview
 This project is a simple AI agent that summarizes input text using Google's Gemini API.  
 It is built using FastAPI and deployed on Google Cloud Run.

@@ -43,12 +43,10 @@ Returns:
 
 Request:
 ```json
-Request:
-'''json
 {
   "text": "Your input text here"
 }
-
+```
 Response:
 {
   "summary": "Summarized Text"
@@ -93,20 +91,9 @@ Note:
 If Gemini API quota is exceeded, the app returns a fallback summary to ensure reliability.
 
 Author:
-Aisha Sulta
-
-
-
-
-
-
-Author:
-
-
----
+Aisha Sultana
 
 #2. `.gitignore`
-
 Create:
 
 ```bash
